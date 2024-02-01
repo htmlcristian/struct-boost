@@ -1,0 +1,37 @@
+<svg width="161" height="88" viewBox="0 0 161 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="161" height="88" fill="#F5F5F5"/>
+<g id="Desktop " clip-path="url(#clip0_1_12)">
+<rect width="1440" height="3787" transform="translate(-432 -2157)" fill="white"/>
+<g id="Section" clip-path="url(#clip1_1_12)">
+<rect width="1440" height="2637" transform="translate(-432 -1007)" fill="url(#paint0_linear_1_12)"/>
+<g id="Section 2">
+<g id="Frame 2301">
+<g id="Frame 2299">
+<g id="Frame 2268">
+<rect x="-320" y="-100" width="800" height="358" fill="white" fill-opacity="0.02"/>
+<rect x="-319" y="-99" width="798" height="356" stroke="white" stroke-opacity="0.08" stroke-width="2"/>
+<g id="Frame" clip-path="url(#clip2_1_12)">
+<path id="Vector" d="M94.7743 0L67.5049 36.6779L88.2243 64.4885L76.5947 73.3557L43.7111 29.4229L0 88H160.408L94.7743 0Z" fill="#F67ACB"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_12" x1="-187" y1="-924.313" x2="1676.5" y2="-938.398" gradientUnits="userSpaceOnUse">
+<stop stop-color="#000205"/>
+<stop offset="1" stop-color="#000205"/>
+</linearGradient>
+<clipPath id="clip0_1_12">
+<rect width="1440" height="3787" fill="white" transform="translate(-432 -2157)"/>
+</clipPath>
+<clipPath id="clip1_1_12">
+<rect width="1440" height="2637" fill="white" transform="translate(-432 -1007)"/>
+</clipPath>
+<clipPath id="clip2_1_12">
+<rect width="161" height="88" fill="white"/>
+</clipPath>
+</defs>
+</svg>
